@@ -1,3 +1,8 @@
+/* Nombre del archivo:TFT_ESP32_F
+* Descripción: Control de motor y despliegue de datos en pantalla tft incluyendo alerta de proximidad
+* Autor:Hector Castillo Andres Mendez Y Jesus Garcia
+* Versión: 1.7
+*/
 #include <TFT_eSPI.h>
 #include <L298N.h>
 #include <Wire.h>
